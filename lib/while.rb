@@ -8,6 +8,6 @@ def using_while(levitation_force)
     end
 	end
 
-  levitation_fource "Wingardium Leviosa"
+  using_while "Wingardium Leviosa"
   #your code here
 end
