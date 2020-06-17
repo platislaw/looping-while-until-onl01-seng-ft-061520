@@ -5,7 +5,7 @@ def using_while(levitation_force)
     puts counter
     if counter >= 10
       break
-    
+    end
 	end
 
   using_while "Wingardium Leviosa"
