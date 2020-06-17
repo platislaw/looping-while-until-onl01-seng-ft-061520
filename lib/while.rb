@@ -1,4 +1,4 @@
-def using_while
+def using_while(levitation_force)
   levitation_force = 6
 	loop do
 	  counter += 1
