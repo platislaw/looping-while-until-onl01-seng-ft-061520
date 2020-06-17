@@ -7,5 +7,7 @@ def using_while
       break
     end
 	end
+
+  levitation_fource "Wingardium Leviosa"
   #your code here
 end
