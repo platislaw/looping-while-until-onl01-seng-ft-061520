@@ -3,7 +3,7 @@ def using_while
 	loop do
 	  counter += 1
     puts counter
-    if counter >=7
+    if counter >= 10
       break
     end
 	end
